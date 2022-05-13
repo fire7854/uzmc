@@ -1,7 +1,9 @@
 # uzmc
 
 backend : Bart
+
 frontend : junhyu0k
+
 (yall guys can visit my bro's game dev acc in instagram check it out @indi_jun)
 we started this project since 2020 i made 1st prototype automatic zoom enter 
 system (back end) in 1week
